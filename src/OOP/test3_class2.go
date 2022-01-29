@@ -38,7 +38,7 @@ func main() {
 	var s2 SuperMan
 	s2.name = "f"
 	s2.sex = "male"
-	s2.level = "66"
+	s2.level = 66
 
 	s.Walk() //父类的方法
 	s.Fly()

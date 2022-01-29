@@ -18,7 +18,6 @@ func (this Hero) GetName() string {
 	return this.Name
 }
 func (this *Hero) SetName(newName string) {
-	//this是调用该方法的对象的一个副本（拷贝）
 	this.Name = newName
 }
 
