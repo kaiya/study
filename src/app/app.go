@@ -1,9 +1,10 @@
 package main
 
 import (
-	"awesomeProject/src/greet"
 	"fmt"
 	"runtime"
+
+	"github.com/Kaiya/golangStudy/src/greet"
 )
 
 func main() {
