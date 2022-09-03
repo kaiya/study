@@ -14,7 +14,7 @@ const (
 	StopCharacter = "\r\n\r\n"
 )
 
-func main() {
+func main2() {
 
 	//gin.Default()
 	//engine := gin.Default()

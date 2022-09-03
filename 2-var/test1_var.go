@@ -21,4 +21,5 @@ func main() {
 		vv int  = 100
 		jj bool = true
 	)
+	_, _, _, _, _, _, _, _, _ = a, b, e, xx, yy, kk, ll, vv, jj
 }
